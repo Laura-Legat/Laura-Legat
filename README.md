@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align="center">
 
+### Hey there! I'm Laura :computer:
+
+#### Artificial Intelligence student & passionate software developer based in Vienna
+
+</div>
 <!--
 **Laura-Legat/Laura-Legat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
