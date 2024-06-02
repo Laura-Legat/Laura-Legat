@@ -2,7 +2,7 @@
 
 ### Hey there! I'm Laura :computer:
 
-#### Artificial Intelligence student, passionate Machine Learning engineer based in Vienna and Greenville, NC
+#### Artificial Intelligence student, passionate Machine Learning engineer based in Austria.
 
 </div>
 <!--
