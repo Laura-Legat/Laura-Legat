@@ -2,11 +2,7 @@
 
 ### Hey there! I'm Laura :computer:
 
-#### Artificial Intelligence student, passionate Machine Learning engineer based in Austria.
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Legat&layout=compact&hide_border=true&theme=dark&bg_color=00000000&hide=jupyter%20notebook,css">
-</p>
+#### Artificial Intelligence PhD student working on advancing AI in healthcare.
 
 </div>
 <!--
